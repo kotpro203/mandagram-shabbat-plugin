@@ -1,5 +1,6 @@
 <p align="right">
-  <a href="README_EN.md">🇬🇧 Read this in English</a>
+  <a href="README_EN.md">🇬🇧 English</a> &middot;
+  <a href="README_HE.md">🇮🇱 עברית</a>
 </p>
 
 # MandaGram Shabbat Enforcer Plugin (C ABI) v2.0.0
@@ -64,6 +65,7 @@ mandagram-shabbat-plugin/
 ├── Makefile                # Сборка под Linux (.so) и Windows (.dll)
 ├── README.md               # Документация на русском языке (по умолчанию)
 ├── README_EN.md            # Документация на английском языке
+├── README_HE.md            # Документация на иврите
 ├── .gitignore              # Исключение артефактов сборки
 ├── include/
 │   └── mandagram_plugin.h  # C-заголовочный файл MandaGram SDK
